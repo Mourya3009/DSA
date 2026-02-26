@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mourya3009/DSA/tree/master/0066-plus-one) |
+| [0238-product-of-array-except-self](https://github.com/Mourya3009/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Mourya3009/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
