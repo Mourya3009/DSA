@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mourya3009/DSA/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Mourya3009/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mourya3009/DSA/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Mourya3009/DSA/tree/master/0238-product-of-array-except-self) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Mourya3009/DSA/tree/master/0041-first-missing-positive) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 ## Binary Search
