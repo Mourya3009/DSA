@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mourya3009/DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Mourya3009/DSA/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/Mourya3009/DSA/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mourya3009/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mourya3009/DSA/tree/master/0088-merge-sorted-array) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Mourya3009/DSA/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Mourya3009/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
