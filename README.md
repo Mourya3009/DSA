@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Mourya3009/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Mourya3009/DSA/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Mourya3009/DSA/tree/master/0274-h-index) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Mourya3009/DSA/tree/master/0045-jump-game-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Mourya3009/DSA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
