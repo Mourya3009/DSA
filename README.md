@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mourya3009/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Mourya3009/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mourya3009/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mourya3009/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Mourya3009/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Mourya3009/DSA/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Mourya3009/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
 ## Two Pointers
