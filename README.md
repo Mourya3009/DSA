@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Mourya3009/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Mourya3009/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mourya3009/DSA/tree/master/0342-power-of-four) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mourya3009/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mourya3009/DSA/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Mourya3009/DSA/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Mourya3009/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Mourya3009/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
