@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mourya3009/DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mourya3009/DSA/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Mourya3009/DSA/tree/master/0326-power-of-three) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mourya3009/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Mourya3009/DSA/tree/master/2235-add-two-integers) |
 ## Hash Table
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mourya3009/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Mourya3009/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
