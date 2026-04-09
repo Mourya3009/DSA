@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mourya3009/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Mourya3009/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mourya3009/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mourya3009/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mourya3009/DSA/tree/master/0274-h-index) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Mourya3009/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Mourya3009/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mourya3009/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 ## Binary Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mourya3009/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mourya3009/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mourya3009/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mourya3009/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mourya3009/DSA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Mourya3009/DSA/tree/master/0274-h-index) |
